@@ -1,0 +1,11 @@
+[{
+        "nim": "10108088",
+        "nama": "daeng rosanda",
+        "catatan": "Ini adalah array pertama dari json objek mahasiswa"
+    },
+    {
+        "nim": "10108090",
+        "nama": "Adhitya Perdana",
+        "catatan": "Ini adalah array kedua dari json objek mahasiswa"
+    }
+]
