@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-wpu-js-intermediate/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Inside all of these directories are intermediate vanilla javascript learning materials as a foundation when you want to enter the javascript framework.
+Inside all of these directories are intermediate vanilla Javascript learning materials as a foundation when you want to enter the Javascript framework.
 
 For those who want to contribute, just fork or download as usual!
 
